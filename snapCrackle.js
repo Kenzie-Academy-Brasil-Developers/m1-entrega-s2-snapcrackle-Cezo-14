@@ -13,3 +13,5 @@ function snapCrackle(maxValue) {
   }
   return numeros.join(", ");
 }
+
+console.log(snapCrackle(12));
